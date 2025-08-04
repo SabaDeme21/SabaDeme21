@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabaDeme21
+- 👋 Hi, I’m @SabaDeme22
 - 👀 I’m interested in Data Analytic and Data Science
 - 🌱 I’m currently learning Finances and Business Development
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-SabaDeme21/SabaDeme21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SabaDeme21/SabaDeme22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
